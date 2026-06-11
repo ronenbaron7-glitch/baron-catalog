@@ -1,10 +1,22 @@
 {
     "products": [
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/4 aces-clean.png",
+            "image": "images/מוצרי מין/בולבולמתקפל.png",
+            "name": "בולבולמתקפל",
+            "price": "",
+            "category": "מוצרי מין",
+            "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
+            "material": "PLA",
+            "colors": "מגוון צבעים לבחירה",
+            "size": "",
+            "weight": "כ־30 גרם",
+            "enabled": true
+        },
+        {
+            "image": "images/מוצרי עישון/4 aces-clean.png",
             "name": "4 aces-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -13,10 +25,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Bart Skull Grinder-clean.png",
+            "image": "images/מוצרי עישון/Bart Skull Grinder-clean.png",
             "name": "Bart Skull Grinder-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -25,10 +37,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Clipper skull-clean.png",
+            "image": "images/מוצרי עישון/Clipper skull-clean.png",
             "name": "Clipper skull-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -37,10 +49,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Cosy Clipper Buddy-clean.png",
+            "image": "images/מוצרי עישון/Cosy Clipper Buddy-clean.png",
             "name": "Cosy Clipper Buddy-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -49,10 +61,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Dice-clean.png",
+            "image": "images/מוצרי עישון/Dice-clean.png",
             "name": "Dice-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -61,10 +73,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Grinder dead face-clean.png",
+            "image": "images/מוצרי עישון/Grinder dead face-clean.png",
             "name": "Grinder dead face-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -73,10 +85,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Grinder emoji tongue-clean.png",
+            "image": "images/מוצרי עישון/Grinder emoji tongue-clean.png",
             "name": "Grinder emoji tongue-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -85,10 +97,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Heavy Duty Herb Grinder-clean.png",
+            "image": "images/מוצרי עישון/Heavy Duty Herb Grinder-clean.png",
             "name": "Heavy Duty Herb Grinder-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -97,10 +109,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Melting Smiley Skull Grinder-clean.png",
+            "image": "images/מוצרי עישון/Melting Smiley Skull Grinder-clean.png",
             "name": "Melting Smiley Skull Grinder-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -109,10 +121,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Rose Full Size Clipper Case-clean.png",
+            "image": "images/מוצרי עישון/Rose Full Size Clipper Case-clean.png",
             "name": "Rose Full Size Clipper Case-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -121,10 +133,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/דברי עישון/Snake Style-clean.png",
+            "image": "images/מוצרי עישון/Snake Style-clean.png",
             "name": "Snake Style-clean",
             "price": "",
-            "category": "דברי עישון",
+            "category": "מוצרי עישון",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -133,10 +145,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Articulated Flexy.png",
+            "image": "images/מחזיקי מפתחות/Articulated Flexy.png",
             "name": "Articulated Flexy",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -145,10 +157,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Balloon Dog.png",
+            "image": "images/מחזיקי מפתחות/Balloon Dog.png",
             "name": "Balloon Dog",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -157,10 +169,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Christmas minis.png",
+            "image": "images/מחזיקי מפתחות/Christmas minis.png",
             "name": "Christmas minis",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -169,10 +181,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Cute Coffee.webp",
+            "image": "images/מחזיקי מפתחות/Cute Coffee.webp",
             "name": "Cute Coffee",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -181,10 +193,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Cute Flexi Cat Toy.png",
+            "image": "images/מחזיקי מפתחות/Cute Flexi Cat Toy.png",
             "name": "Cute Flexi Cat Toy",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -193,10 +205,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Dog Paw Keychain.png",
+            "image": "images/מחזיקי מפתחות/Dog Paw Keychain.png",
             "name": "Dog Paw Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -205,10 +217,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Flexi Penguin.png",
+            "image": "images/מחזיקי מפתחות/Flexi Penguin.png",
             "name": "Flexi Penguin",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -217,10 +229,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Ghost Keychain.webp",
+            "image": "images/מחזיקי מפתחות/Ghost Keychain.webp",
             "name": "Ghost Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -229,10 +241,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Ghost with beer Magnet.png",
+            "image": "images/מחזיקי מפתחות/Ghost with beer Magnet.png",
             "name": "Ghost with beer Magnet",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -241,10 +253,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Gym dumbbell keychain.png",
+            "image": "images/מחזיקי מפתחות/Gym dumbbell keychain.png",
             "name": "Gym dumbbell keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -253,10 +265,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Heart Spin Keychain.webp",
+            "image": "images/מחזיקי מפתחות/Heart Spin Keychain.webp",
             "name": "Heart Spin Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -265,10 +277,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Keychain - cat.png",
+            "image": "images/מחזיקי מפתחות/Keychain - cat.png",
             "name": "Keychain - cat",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -277,10 +289,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Lips Keychain.webp",
+            "image": "images/מחזיקי מפתחות/Lips Keychain.webp",
             "name": "Lips Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -289,10 +301,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Mini Angry Duck.png",
+            "image": "images/מחזיקי מפתחות/Mini Angry Duck.png",
             "name": "Mini Angry Duck",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -301,10 +313,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Mini Guitar Keychains.png",
+            "image": "images/מחזיקי מפתחות/Mini Guitar Keychains.png",
             "name": "Mini Guitar Keychains",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -313,10 +325,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Ribbon Keychain.png",
+            "image": "images/מחזיקי מפתחות/Ribbon Keychain.png",
             "name": "Ribbon Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -325,10 +337,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Rifle Magazine KeyChain.png",
+            "image": "images/מחזיקי מפתחות/Rifle Magazine KeyChain.png",
             "name": "Rifle Magazine KeyChain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -337,10 +349,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Soccer Ball Keychain-clean.png",
+            "image": "images/מחזיקי מפתחות/Soccer Ball Keychain-clean.png",
             "name": "Soccer Ball Keychain-clean",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -349,10 +361,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Triceratops Keychain.webp",
+            "image": "images/מחזיקי מפתחות/Triceratops Keychain.webp",
             "name": "Triceratops Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -361,10 +373,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/מחזיק מפתחות/Trophy Keychain.png",
+            "image": "images/מחזיקי מפתחות/Trophy Keychain.png",
             "name": "Trophy Keychain",
             "price": "",
-            "category": "מחזיק מפתחות",
+            "category": "מחזיקי מפתחות",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -373,7 +385,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/Connect 4 - 4 in a row.png",
+            "image": "images/משחקי קופסה/Connect 4 - 4 in a row.png",
             "name": "Connect 4 - 4 in a row",
             "price": "",
             "category": "משחקי קופסה",
@@ -385,7 +397,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/Egloo Mania-clean.png",
+            "image": "images/משחקי קופסה/Egloo Mania-clean.png",
             "name": "Egloo Mania-clean",
             "price": "",
             "category": "משחקי קופסה",
@@ -397,7 +409,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/figurine memory game - board game-clean.png",
+            "image": "images/משחקי קופסה/figurine memory game - board game-clean.png",
             "name": "figurine memory game - board game-clean",
             "price": "",
             "category": "משחקי קופסה",
@@ -409,7 +421,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/flexi fishing game.webp",
+            "image": "images/משחקי קופסה/flexi fishing game.webp",
             "name": "flexi fishing game",
             "price": "",
             "category": "משחקי קופסה",
@@ -421,7 +433,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/Pingu Peril Game-clean.png",
+            "image": "images/משחקי קופסה/Pingu Peril Game-clean.png",
             "name": "Pingu Peril Game-clean",
             "price": "",
             "category": "משחקי קופסה",
@@ -433,7 +445,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/Rabbits in balance Easter game-clean.png",
+            "image": "images/משחקי קופסה/Rabbits in balance Easter game-clean.png",
             "name": "Rabbits in balance Easter game-clean",
             "price": "",
             "category": "משחקי קופסה",
@@ -445,7 +457,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/Tetris Balance Mini - Travel Edition-clean.png",
+            "image": "images/משחקי קופסה/Tetris Balance Mini - Travel Edition-clean.png",
             "name": "Tetris Balance Mini - Travel Edition-clean",
             "price": "",
             "category": "משחקי קופסה",
@@ -457,7 +469,7 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/משחקי קופסה/Wavelength  Perfect Match-clean.png",
+            "image": "images/משחקי קופסה/Wavelength  Perfect Match-clean.png",
             "name": "Wavelength  Perfect Match-clean",
             "price": "",
             "category": "משחקי קופסה",
@@ -469,10 +481,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Bear puzzle.png",
+            "image": "images/פזלים לילדים/Bear puzzle.png",
             "name": "Bear puzzle",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -481,10 +493,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Dinosaurus puzzle.png",
+            "image": "images/פזלים לילדים/Dinosaurus puzzle.png",
             "name": "Dinosaurus puzzle",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -493,10 +505,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Elephant puzzle.png",
+            "image": "images/פזלים לילדים/Elephant puzzle.png",
             "name": "Elephant puzzle",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -505,10 +517,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Bear.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Bear.png",
             "name": "Montessori - Puzzle Bear",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -517,10 +529,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Brachiosaurus.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Brachiosaurus.png",
             "name": "Montessori - Puzzle Brachiosaurus",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -529,10 +541,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Brontosaurus.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Brontosaurus.png",
             "name": "Montessori - Puzzle Brontosaurus",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -541,10 +553,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Cow.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Cow.png",
             "name": "Montessori - Puzzle Cow",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -553,10 +565,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Dolphin.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Dolphin.png",
             "name": "Montessori - Puzzle Dolphin",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -565,10 +577,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Dragon.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Dragon.png",
             "name": "Montessori - Puzzle Dragon",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -577,10 +589,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Elephant.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Elephant.png",
             "name": "Montessori - Puzzle Elephant",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -589,10 +601,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Giraffe.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Giraffe.png",
             "name": "Montessori - Puzzle Giraffe",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -601,10 +613,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Horse.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Horse.png",
             "name": "Montessori - Puzzle Horse",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -613,10 +625,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Parrot.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Parrot.png",
             "name": "Montessori - Puzzle Parrot",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -625,10 +637,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Rhinoceros.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Rhinoceros.png",
             "name": "Montessori - Puzzle Rhinoceros",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -637,10 +649,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Montessori - Puzzle Stegosaurus.png",
+            "image": "images/פזלים לילדים/Montessori - Puzzle Stegosaurus.png",
             "name": "Montessori - Puzzle Stegosaurus",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -649,10 +661,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Rabbit puzzle.png",
+            "image": "images/פזלים לילדים/Rabbit puzzle.png",
             "name": "Rabbit puzzle",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -661,10 +673,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Snail with Numbers - Puzzle.png",
+            "image": "images/פזלים לילדים/Snail with Numbers - Puzzle.png",
             "name": "Snail with Numbers - Puzzle",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
@@ -673,10 +685,10 @@
             "enabled": true
         },
         {
-            "image": "C:/Users/tih/Desktop/קטלוג/פאזל לילדים/Unicorn 3D puzzle.png",
+            "image": "images/פזלים לילדים/Unicorn 3D puzzle.png",
             "name": "Unicorn 3D puzzle",
             "price": "",
-            "category": "פאזל לילדים",
+            "category": "פזלים לילדים",
             "description": "מודל מודפס בתלת־ממד באיכות גבוהה.",
             "material": "PLA",
             "colors": "מגוון צבעים לבחירה",
