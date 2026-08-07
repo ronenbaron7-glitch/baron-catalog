@@ -8,7 +8,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0003.jpg",
@@ -19,7 +28,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 9.5
+      },
+      {
+        "qty": 10,
+        "mode": "percent",
+        "value": 8.5
+      },
+      {
+        "qty": 15,
+        "mode": "percent",
+        "value": 8.0
+      }
+    ]
   },
   {
     "img": "assets/product_0004.jpg",
@@ -30,18 +58,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0005.jpg",
-    "name": "מחזיק קליפר חמוד",
-    "price": "₪35",
-    "category": "מוצרי עישון",
-    "description": "אביזר מודפס בתלת־ממד בעיצוב מיוחד ונקי.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 3.5
+      }
+    ]
   },
   {
     "img": "assets/product_0006.jpg",
@@ -52,7 +88,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 20,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 50,
+        "mode": "price",
+        "value": 3.5
+      }
+    ]
   },
   {
     "img": "assets/product_0007.jpg",
@@ -63,7 +118,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 9.5
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 9.0
+      },
+      {
+        "qty": 15,
+        "mode": "price",
+        "value": 8.5
+      }
+    ]
   },
   {
     "img": "assets/product_0008.jpg",
@@ -74,7 +148,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 9.5
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 9.0
+      },
+      {
+        "qty": 15,
+        "mode": "price",
+        "value": 8.5
+      }
+    ]
   },
   {
     "img": "assets/product_0009.jpg",
@@ -85,7 +178,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0010.jpg",
@@ -96,7 +198,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 9.5
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 8.5
+      },
+      {
+        "qty": 20,
+        "mode": "price",
+        "value": 8.0
+      }
+    ]
   },
   {
     "img": "assets/product_0011.jpg",
@@ -107,7 +228,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 3.5
+      }
+    ]
   },
   {
     "img": "assets/product_0012.jpg",
@@ -118,18 +258,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0013.jpg",
-    "name": "בובה גמישה",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 3.5
+      }
+    ]
   },
   {
     "img": "assets/product_0014.jpg",
@@ -140,18 +288,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0015.jpg",
-    "name": "מיניס לחג המולד",
-    "price": "₪20",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 5.0
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 3.9
+      }
+    ]
   },
   {
     "img": "assets/product_0016.jpg",
@@ -162,18 +318,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0017.jpg",
-    "name": "חתול גמיש חמוד",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0018.jpg",
@@ -184,18 +338,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0019.jpg",
-    "name": "פינגווין גמיש",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 3.5
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 2.9
+      }
+    ]
   },
   {
     "img": "assets/product_0020.jpg",
@@ -206,7 +368,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 20,
+        "mode": "price",
+        "value": 3.5
+      },
+      {
+        "qty": 50,
+        "mode": "price",
+        "value": 2.9
+      }
+    ]
   },
   {
     "img": "assets/product_0021.jpg",
@@ -217,29 +398,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0022.jpg",
-    "name": "מחזיק מפתחות משקולת",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0023.jpg",
-    "name": "מחזיק מפתחות לב מסתובב",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 3.0
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 2.5
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 2.0
+      }
+    ]
   },
   {
     "img": "assets/product_0024.jpg",
@@ -250,7 +428,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 5.0
+      },
+      {
+        "qty": 20,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 50,
+        "mode": "price",
+        "value": 3.9
+      }
+    ]
   },
   {
     "img": "assets/product_0025.jpg",
@@ -261,7 +458,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 5,
+        "mode": "price",
+        "value": 3.0
+      },
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 2.5
+      },
+      {
+        "qty": 25,
+        "mode": "price",
+        "value": 1.9
+      }
+    ]
   },
   {
     "img": "assets/product_0026.jpg",
@@ -272,18 +488,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0027.jpg",
-    "name": "מחזיקי מפתחות גיטרה",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 5.0
+      },
+      {
+        "qty": 20,
+        "mode": "price",
+        "value": 4.5
+      },
+      {
+        "qty": 50,
+        "mode": "price",
+        "value": 3.7
+      }
+    ]
   },
   {
     "img": "assets/product_0028.jpg",
@@ -294,7 +518,26 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 10,
+        "mode": "price",
+        "value": 4.0
+      },
+      {
+        "qty": 20,
+        "mode": "price",
+        "value": 3.5
+      },
+      {
+        "qty": 50,
+        "mode": "price",
+        "value": 2.9
+      }
+    ]
   },
   {
     "img": "assets/product_0029.jpg",
@@ -305,40 +548,10 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0030.jpg",
-    "name": "מחזיק מפתחות כדורגל",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0031.jpg",
-    "name": "מחזיק מפתחות טריצרטופס",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0032.jpg",
-    "name": "מחזיק מפתחות גביע",
-    "price": "₪25",
-    "category": "מחזיקי מפתחות",
-    "description": "פריט קטן וחמוד, מודפס בתלת־ממד ומוכן להוסיף צבע למפתחות.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0033.jpg",
@@ -349,18 +562,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0034.jpg",
-    "name": "מאניית איגלו",
-    "price": "₪55",
-    "category": "משחקי קופסה",
-    "description": "משחק קליל וכיפי, מתאים כמתנה קטנה או לזמן משפחתי.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0035.jpg",
@@ -371,29 +582,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0036.jpg",
-    "name": "משחק דיג גמיש",
-    "price": "₪45",
-    "category": "משחקי קופסה",
-    "description": "משחק קליל וכיפי, מתאים כמתנה קטנה או לזמן משפחתי.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
-  },
-  {
-    "img": "assets/product_0037.jpg",
-    "name": "הפינגווין בסכנה",
-    "price": "₪55",
-    "category": "משחקי קופסה",
-    "description": "משחק קליל וכיפי, מתאים כמתנה קטנה או לזמן משפחתי.",
-    "material": "PLA",
-    "colors": "צבעים לפי בחירה",
-    "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0038.jpg",
@@ -404,7 +602,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0039.jpg",
@@ -415,7 +622,16 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0040.jpg",
@@ -426,204 +642,267 @@
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": true,
+    "tierSet": "",
+    "tiers": [
+      {
+        "qty": 1,
+        "mode": "price",
+        "value": 1.0
+      }
+    ]
   },
   {
     "img": "assets/product_0041.jpg",
     "name": "פאזל דוב",
-    "price": "₪35",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0042.jpg",
     "name": "פאזל דינוזאור",
-    "price": "₪35",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0043.jpg",
     "name": "פאזל פיל",
-    "price": "₪35",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0044.jpg",
     "name": "פאזל מונטסורי דוב",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0045.jpg",
     "name": "פאזל מונטסורי ברכיוזאורוס",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0046.jpg",
     "name": "פאזל מונטסורי ברונטוזאורוס",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0047.jpg",
     "name": "פאזל מונטסורי פרה",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0048.jpg",
     "name": "פאזל מונטסורי דולפין",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0049.jpg",
     "name": "פאזל מונטסורי דרקון",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0050.jpg",
     "name": "פאזל מונטסורי פיל",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0051.jpg",
     "name": "פאזל מונטסורי ג׳ירפה",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0052.jpg",
     "name": "פאזל מונטסורי סוס",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0053.jpg",
     "name": "פאזל מונטסורי תוכי",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0054.jpg",
     "name": "פאזל מונטסורי קרנף",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0055.jpg",
     "name": "פאזל מונטסורי סטגוזאורוס",
-    "price": "₪40",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0056.jpg",
     "name": "פאזל ארנב",
-    "price": "₪35",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0057.jpg",
     "name": "פאזל חילזון עם מספרים",
-    "price": "₪35",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   },
   {
     "img": "assets/product_0058.jpg",
     "name": "פאזל חד־קרן תלת־ממדי",
-    "price": "₪35",
+    "price": "₪25",
     "category": "פזלים לילדים",
     "description": "פאזל צבעוני וחמוד לילדים, מודפס בתלת־ממד.",
     "material": "PLA",
     "colors": "צבעים לפי בחירה",
     "size": "",
-    "weight": "כ־30 גרם"
+    "weight": "כ־30 גרם",
+    "hidden": false,
+    "tierSet": "",
+    "tiers": []
   }
 ]
